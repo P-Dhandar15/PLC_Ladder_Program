@@ -1,7 +1,7 @@
 # PLC_Ladder_Program
 
 These are **Ladder Logic Programs** created for **Programable Logic Controller (PLC)** using _**WinPro Ladder**_ Software.
-The Programs include simple projects like 
+The repository includes simple projects like 
 * Adder
 * Subtractor
 * Logic Gates
